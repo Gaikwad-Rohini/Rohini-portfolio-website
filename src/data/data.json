@@ -1,0 +1,209 @@
+
+{
+  "Header": {
+    "title": "Who I Am",
+    "paragraph": "I’m Rohini Gaikwad"
+  },
+  "About": {
+    "paragraph": "I'm a dedicated MERN Stack Developer with a solid foundation in building dynamic, responsive, and scalable web applications using MongoDB, Express.js, React, and Node.js. I specialize in creating intuitive front-end experiences while ensuring robust and efficient back-end functionality.With practical experience in developing full-stack applications, I enjoy tackling complex challenges, writing clean and maintainable code, and staying up to date with the latest technologies. Whether it's building RESTful APIs, integrating third-party services, or deploying applications to the cloud, I’m driven to deliver high-quality, performance-focused solutions that align with business objectives.",
+    "Why": [
+      "Full-Stack Expertise",
+      "Clean & Maintainable Code",
+      "User-Centric Design",
+      "API Development & Integration ",
+      "Backend Efficiency",
+      "Building User Interfaces"
+    ],
+    "Why2": [
+      "Fast Learner & Adaptable",
+      "Strong Communication",
+      "Problem Solver at Heart",
+      "DevOps & Deployment",
+      "Responsive Design",
+      "Browser Compatibility"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "video/CRUD_REC.mp4",
+      "name": "E2E Integration with Rest Api ",
+      "text": "https://github.com/Gaikwad-Rohini/react-my-pagination"
+    },
+    {
+      "icon": "video/16-11-02.mp4",
+      "name": "lloyds bank login Page",
+      "text": ""
+    },
+    {
+      "icon": "video/Cypress_REC.mp4",
+      "name": "Cypress Test Automation",
+      "text": "https://github.com/Gaikwad-Rohini/CypressAutomation"
+    },
+    {
+      "icon": "video/Cypress_REC.mp4",
+      "name": "Accessibility Testing",
+      "text": ""
+    },
+    {
+      "icon": "video/Cypress_REC.mp4",
+      "name": "Figma Design",
+      "text": ""
+    },
+    {
+      "icon": "video/Cypress_REC.mp4",
+      "name": "Consectetur adipiscing",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/skill//ReactJs.png",
+      "name": "React",
+      "job": ""
+    },
+    {
+      "img": "img/skill/TailwindCSS.png",
+      "name": "Tailwind CSS",
+      "job": ""
+    },
+    {
+      "img": "img/skill/Nodejs.png",
+      "name": "Node.js",
+      "job": ""
+    },
+    {
+      "img": "img/skill/ExpressJs.png",
+      "name": "Express.js",
+      "job": ""
+    },
+    {
+      "img": "img/skill/html5.png",
+      "name": "HTML5",
+      "job": ""
+    },
+    {
+      "img": "img/skill/RestApi.png",
+      "name": "REST APIs",
+      "job": ""
+    },
+    {
+      "img": "img/skill/javaScript.png",
+      "name": "JavaScript",
+      "job": ""
+    },
+    {
+      "img": "img/skill/Java.png",
+      "name": "Java",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": " ",
+    "phone": "",
+    "email": "",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
