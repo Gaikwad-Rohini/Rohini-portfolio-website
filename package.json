@@ -1,5 +1,6 @@
 {
-  "name": "landingpage-react-template",
+  "name": "rohini-portfolio-website",
+  "homepage": "https://Gaikwad-Rohini.github.io/Rohini-portfolio-website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
